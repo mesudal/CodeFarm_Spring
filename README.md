@@ -56,6 +56,18 @@
 <br>
 
 <div>
+  <h3>실시간 채팅 및 알림 Flow-Chart</h3>
+  <img src="https://user-images.githubusercontent.com/80095494/210135217-5c857408-c4c4-4cdf-875b-33fb560e3b3b.png">
+</div>
+<br>
+
+<div>
+  <h3>프로젝트 ERD</h3>
+  <img src="https://user-images.githubusercontent.com/80095494/210135217-5c857408-c4c4-4cdf-875b-33fb560e3b3b.png">
+</div>
+<br>
+
+<div>
   <h3>프로젝트를 통해 느낀점(퍼블리싱)</h3>
   <p>우선 퍼블리싱부터 느낀 점은 메인 페이지 coment 페이지를 벤치마킹하여 작업을 진행하였는데 슬라이드 배너가 상당히 많이 필요했다.<br>
     많은 라이브러리 중 swiper slide 라이브러리를 활용하여 이번 프로젝트 분위기에 맞게끔 슬라이드 배너를 제작하였는데, 중간중간 나의 목적과는 다르게 작동하는 배너가 많이 미웠다.<br>
