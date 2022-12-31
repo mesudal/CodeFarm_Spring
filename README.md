@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
   </span>
   <br>
-  <span>API : OAut(구글,네이버,카카오), 카카오맵, SummerNote, BootPay, WebSocket</span>
+  <span>API : OAuth(구글,네이버,카카오), 카카오맵, SummerNote, BootPay, WebSocket</span>
 </div>
 <hr>
 
