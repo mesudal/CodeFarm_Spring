@@ -56,16 +56,45 @@
 <br>
 
 <div>
-  <h3>실시간 채팅 및 알림 Flow-Chart</h3>
-  <img src="https://user-images.githubusercontent.com/80095494/210135217-5c857408-c4c4-4cdf-875b-33fb560e3b3b.png">
+  <h3>프로젝트에 사용된 기술 스택</h3>
+  <span>Front-End :
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white" />
+  </span>
+  <br>
+  <span>Back-End :
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
+    
+  </span>
+  
+  
+  
+  
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white" />
 </div>
-<br>
+<hr>
+
+<div>
+  <h3>실시간 채팅 및 알림 Flow-Chart</h3>
+  <div align="center">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135358-ae932fcb-8a40-4bb6-8eed-d33c81648b0c.png">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135361-d1600386-51b8-4a40-baf1-6fb9c65b7df6.png">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135362-9bfc2e1b-c6ab-4a07-bb9b-ae96393c3f76.png">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135365-0a226210-64cb-47a5-a167-13f8e288adab.png">
+  </div>
+</div>
+<hr>
 
 <div>
   <h3>프로젝트 ERD</h3>
   <img src="https://user-images.githubusercontent.com/80095494/210135217-5c857408-c4c4-4cdf-875b-33fb560e3b3b.png">
 </div>
-<br>
+<hr>
 
 <div>
   <h3>프로젝트를 통해 느낀점(퍼블리싱)</h3>
@@ -88,21 +117,3 @@
     이번 프로젝트에서 정말 벽도 크게 느끼고, 나의 개발능력에 대해서 크게 좌절하였지만 주변 팀원들의 응원으로 계속 도전할 수 있었고 성공적인 결과물을 만들 수 있어서 너무 뿌듯했다.
   </p>
 </div>
-<hr>
-
-<div>
-  <h3>프로젝트에 사용된 기술 스택</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white" />
-</div>
-
-
-
-
