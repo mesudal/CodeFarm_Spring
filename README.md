@@ -69,19 +69,19 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
-    [<img width="93px" height="20px" src="https://blog.kakaocdn.net/dn/36BIl/btrtE1oVfK8/OkpsTaMswyCgG9neFkiGP1/img.png"/>](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+    <img src="https://user-images.githubusercontent.com/80095494/210136944-387a8441-fa09-4b6c-9862-50b9ca44ef4b.svg">
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white" />
   </span>
   <br>
   <span>Tools :
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
   </span>
-  
-  
-  
-  
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white" />
+  <br>
+  <span>API : OAut(구글,네이버,카카오), 카카오맵, SummerNote, BootPay, WebSocket</span>
 </div>
 <hr>
 
@@ -115,7 +115,7 @@
 
 <div>
   <h3>프로젝트를 통해 느낀점(백엔드)</h3>
-  <p>이번 프로젝트에서 백엔드 업무를 진행하며 정말 큰 어려움이 있었다.<br>
+  <p>백엔드 업무에서는 실시간 채팅 기능을 구현하는데 많이 힘들었던 것 같다.<br>
     한 번도 들어보지 못한 웹소켓이란 통신방법을 구현하여 이번 프로젝트에 적용을 시켜야 했고, 샘플링 코드가 있긴 했지만 모두 처음 보는 문법과 제대로 된 진행방향도 몰랐기에 큰 어려움이 있었다.<br>
     정말 많은 시간 동안 구글링을 하면서 약 1달 동안 고민을 하고, 코드를 수정하며 공부를 하였고 결과적으로는 sockJs와 stomp를 활용하여 실시간 통신을 완성하였다.<br>
     처음에는 막막하기만 했던 웹소켓을 한 번 구현에 성공을 하고나니 감이 잡히기 시작했고, 정말 크게 성장했음을 느꼈다.<br>
