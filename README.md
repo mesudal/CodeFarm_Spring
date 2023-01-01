@@ -95,8 +95,6 @@
     <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160251-4b9b4177-6c45-4afb-a95b-c0861480bd82.jpg">
     <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160252-ef0f0900-5086-45ef-8cb4-453a490e65fd.jpg">
     <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160253-9bd2be0a-d6cc-43be-bbc1-9496880e071b.jpg">
-    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160254-7f6f82d9-01f1-42bc-a046-4dc5a9784ad1.jpg">
-    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160255-f0459a68-0a6d-496b-aa2c-8b5f35a1f12a.jpg">
     <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160256-255d7839-749d-45da-bb6a-c85303978832.jpg">
   </div>
 </div>
