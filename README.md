@@ -84,6 +84,25 @@
 </div>
 <hr>
 
+
+<div>
+  <h3>프로젝트에서 구현한 기능</h3>
+  <div align="center">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160246-3d4e37c4-cd05-45a7-a877-c90653d0ea58.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160247-16be1064-cd0a-469a-9cf9-5b60f03b92ef.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160248-5197cdd5-7b05-47ce-bc2b-6dcae5244a6f.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160249-c47943c0-07c7-4986-a93e-2f35f5146a87.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160251-4b9b4177-6c45-4afb-a95b-c0861480bd82.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160252-ef0f0900-5086-45ef-8cb4-453a490e65fd.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160253-9bd2be0a-d6cc-43be-bbc1-9496880e071b.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160254-7f6f82d9-01f1-42bc-a046-4dc5a9784ad1.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160255-f0459a68-0a6d-496b-aa2c-8b5f35a1f12a.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210160256-255d7839-749d-45da-bb6a-c85303978832.jpg">
+  </div>
+</div>
+<hr>
+
+
 <div>
   <h3>실시간 채팅 및 알림 Flow-Chart</h3>
   <div align="center">
